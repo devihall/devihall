@@ -2,8 +2,8 @@
 
 ##  👋 Hi, I’m @devihall
 - 👀 I’m interested in working on open source projects to flex my newly acquired coding muscles.
-- 🌱 I’m currently learning Node.js, SQL and Sequelize.
-- 💞️ I’m looking to collaborate on projects in the intersection of Biology and Programming
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 You can reach me at... devis0306@gmail.com 
 
 <!---
